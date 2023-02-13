@@ -1,2 +1,2 @@
 # Testes-RFID
-Testes feito usando a antena RFID e o Arduino
+Testes feitos usando a antena RFID e o Arduino

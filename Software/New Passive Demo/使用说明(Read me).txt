@@ -1,0 +1,7 @@
+注:打开演示程序时,弹出"应用程序正常初始化错误(0xc0000135)失败"错误,请安装支持文件"Net Framework 2.0";
+
+"Net Framework 2.0" 下载地址: http://yunpan.cn/Q5RVGdDVNtBN6
+
+Note: open the demo, the pop-up "normal application initialization error (0xc0000135) failed" error, please install the support files ".net Framework 2.0 ";
+
+"Net Framework 2.0" Downloads: http://yunpan.cn/Q5RVGdDVNtBN6
